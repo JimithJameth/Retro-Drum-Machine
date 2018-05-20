@@ -49,3 +49,9 @@ kbd {
   letter-spacing: .1rem;
   color:rgb(255, 0, 255);
 }
+
+h1 {
+  font-size: 4em;
+  color: white;
+  padding-left: 12em;
+}
